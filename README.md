@@ -1,18 +1,17 @@
-<h1 style="font-family: Poppins; font-weight: 800; color: #5194F0; -webkit-text-stroke-width: 1px; -webkit-text-stroke-color: #0D1117;">FELIPE PEREIRA</h1>
+<h1><strong>🐳 FELIPE PEREIRA 🐋</strong></h1>
 <h3>Desenvolvedor Fullstack, foco em React e NodeJS.</h3>
-
 <h3 style="margin: 15px 0;">Atualmente desempregado, buscando uma oportunidade de emprego e trabalhando em projetos pessoais.</h4>
 
-<hr/>
-<a style="display: flex; align-items:center; margin: 10px 0px 20px 0px;">
+<a href="https://www.linkedin.com/in/felipwp">
+    Ver perfil no Linkedin
     <img src="https://cdn3.iconfinder.com/data/icons/material-design-social-icons/152/Linkedin_icon-512.png" width="25px" height="25px"> 
-    <p style="margin: 10px 5px;">Ver perfil</p> 
 </a>
 
+<hr/>
 <img src="https://github-readme-stats.vercel.app/api?username=felipwp&show_icons=true&count_private=true" alt="felipwp" />
 
 <hr/>
-<h1 style="font-family: Poppins; font-weight: 800; color: #5194F0; -webkit-text-stroke-width: 1px; -webkit-text-stroke-color: #0D1117;">PRINCIPAIS PROJETOS</h1>
+<h1><strong>PRINCIPAIS PROJETOS</strong></h1>
 <ul>
     <li><a href="https://github.com/felipwp/vigimafra">Vigimafra</a></li>
     <ul><li>Flutter & Dart & Firebase</li></ul>

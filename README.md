@@ -3,8 +3,8 @@
 <h3 style="margin: 15px 0;">Atualmente desempregado, buscando uma oportunidade de emprego e trabalhando em projetos pessoais.</h4>
 
 <a href="https://www.linkedin.com/in/felipwp">
+    <img src="https://cdn3.iconfinder.com/data/icons/material-design-social-icons/152/Linkedin_icon-512.png" width="18px" height="18px"> 
     Ver perfil no Linkedin
-    <img src="https://cdn3.iconfinder.com/data/icons/material-design-social-icons/152/Linkedin_icon-512.png" width="25px" height="25px"> 
 </a>
 
 <hr/>
